@@ -1,7 +1,8 @@
 # Ethernet-cable
 <p align="center">
   
-![image](https://github.com/user-attachments/assets/77550a60-a23b-440b-ba39-07e441259f23)
+
+<img width="1280" height="720" alt="Your paragraph text" src="https://github.com/user-attachments/assets/c05dda6f-0f8a-49b5-92c2-8033382c3f5e" />
 
 
 
@@ -14,9 +15,9 @@ In this project watch me as I wire and crimp a ethernet cable with the T568B sta
 
 <h1> VIDEO </h1>
 
-**[YOUTUBE LINK](https://www.youtube.com/watch?v=ZQmYk_Z0TK0&t=206s)**
+**[YOUTUBE LINK](https://www.youtube.com/watch?v=dXrKiK_vEAY&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3M3c&index=6)**
 
-https://www.youtube.com/watch?v=ZQmYk_Z0TK0&t=206s
+https://www.youtube.com/watch?v=dXrKiK_vEAY&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3M3c&index=6
 
 <h2>Tools Used</h2>
 
